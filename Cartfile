@@ -1,0 +1,4 @@
+binary "https://dl.google.com/geosdk/GoogleMaps.json"
+binary "https://dl.google.com/geosdk/GooglePlaces.json"
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseGoogleSignInBinary.json"
+binary "https://raw.githubusercontent.com/smooch/smooch-ios/master/Smooch.json"

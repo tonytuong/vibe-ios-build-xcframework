@@ -1,0 +1,4 @@
+binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseGoogleSignInBinary.json" "8.7.0"
+binary "https://dl.google.com/geosdk/GoogleMaps.json" "5.1.0"
+binary "https://dl.google.com/geosdk/GooglePlaces.json" "5.0.0"
+binary "https://raw.githubusercontent.com/smooch/smooch-ios/master/Smooch.json" "10.1.1"
